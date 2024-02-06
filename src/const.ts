@@ -1,5 +1,5 @@
 const DEFAULT_CITY = 'Paris';
-const URL_SERVER = 'https://14.design.pages.academy/six-cities';
+const URL_SERVER = 'https://14.design.htmlacademy.pro/six-cities/';
 const REQUEST_TIMEOUT = 5000;
 const AUTH_TOKEN_KEY_NAME = 'six-cities-token';
 const DEFAULT_VALUE_NULL = 0;
